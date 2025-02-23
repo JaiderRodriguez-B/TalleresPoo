@@ -1,11 +1,11 @@
 package Taller_2;
 
 public class Estudiante {
-    public static String nombre;
-    public static int edad ;
+    public String nombre;
+    public int edad ;
     
     public Estudiante(){
-        this(nombre, edad);
+        this("Sin nombre", 0);
     }
     
     public Estudiante(String nombre, int edad){
