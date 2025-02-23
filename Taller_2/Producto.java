@@ -1,4 +1,4 @@
-package TallerDos;
+package Taller_2;
 
 public class Producto {
 
