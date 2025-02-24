@@ -1,4 +1,4 @@
-package TallerUno;
+package Taller_1;
 
 public class CuentaBancaria {
 	public String numeroCuenta, tipoCuenta;

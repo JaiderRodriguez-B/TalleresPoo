@@ -1,4 +1,4 @@
-package TallerUno;
+package Taller_1;
 
 public class Estudiante {
 	public String nombre, edad, curso;

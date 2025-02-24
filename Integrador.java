@@ -1,4 +1,4 @@
-package TallerUno;
+package Taller_1;
 
 import java.util.Scanner;
 
