@@ -1,4 +1,4 @@
-package TallerSiete.ejercicio2;
+package Taller_7.ejercicio2;
 
 public class Vendedor extends Empleado{
     public String nombre;

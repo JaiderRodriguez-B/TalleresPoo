@@ -1,4 +1,4 @@
-package TallerCinco.packageA;
+package Taller_5.packageA;
 
 public class Empleado {
     protected double Salario;

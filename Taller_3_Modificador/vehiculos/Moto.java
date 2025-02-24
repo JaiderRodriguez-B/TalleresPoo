@@ -1,4 +1,4 @@
-package TallerTres_Modificador.vehiculos;
+package Taller_3_Modificador.vehiculos;
 
 class Moto extends Vehiculo {
     

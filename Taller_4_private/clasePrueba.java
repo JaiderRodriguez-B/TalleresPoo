@@ -1,4 +1,4 @@
-package TallerCuatro_private;
+package Taller_4_private;
 
 public class clasePrueba {
     public static void main(String[] args) {

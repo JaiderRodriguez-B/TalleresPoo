@@ -1,4 +1,4 @@
-package TallerTres_Modificador.packageA;
+package Taller_3_Modificador.packageA;
 
 class Producto {
     String nombre, stock;

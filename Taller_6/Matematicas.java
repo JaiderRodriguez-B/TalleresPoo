@@ -1,4 +1,4 @@
-package TallerSeis;
+package Taller_6;
 
 public class Matematicas {
     public static void Suma(int N1, int N2){

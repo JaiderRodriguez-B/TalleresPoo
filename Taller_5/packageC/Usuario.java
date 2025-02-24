@@ -1,4 +1,4 @@
-package TallerCinco.packageC;
+package Taller_5.packageC;
 
 class Usuario extends Banco{
     String Nombre;

@@ -1,4 +1,4 @@
-package TallerTres_Modificador.packageB;
+package Taller_3_Modificador.packageB;
 
 public class clasePrueba2 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package TallerSiete.ejercicio1;
+package Taller_7.ejercicio1;
 
 public class Rectangulo extends Figura{
     

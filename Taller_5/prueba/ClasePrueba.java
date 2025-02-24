@@ -1,7 +1,7 @@
-package TallerCinco.prueba;
+package Taller_5.prueba;
 
-import TallerCinco.packageB.Moto;
-import TallerCinco.packageB.Vehiculo;
+import Taller_5.packageB.Moto;
+import Taller_5.packageB.Vehiculo;
 
 public class ClasePrueba {
     public static void main(String[] args) {

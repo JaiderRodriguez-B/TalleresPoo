@@ -1,4 +1,4 @@
-package TallerCinco.packageB;
+package Taller_5.packageB;
 
 public class Moto extends Vehiculo{
     String Cilindraje;

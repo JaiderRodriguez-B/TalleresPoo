@@ -1,4 +1,4 @@
-package TallerSeis;
+package Taller_6;
 
 public class Errores_Static {
     private String NombreProducto;

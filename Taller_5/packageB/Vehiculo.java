@@ -1,4 +1,4 @@
-package TallerCinco.packageB;
+package Taller_5.packageB;
 
 public class Vehiculo {
     protected static String tipo;

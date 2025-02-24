@@ -1,4 +1,4 @@
-package TallerCuatro_public;
+package Taller_4_public;
 
 import java.util.Scanner;
 

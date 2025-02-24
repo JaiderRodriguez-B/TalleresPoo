@@ -1,4 +1,4 @@
-package TallerCuatro_public;
+package Taller_4_public;
 
 public class CuentaBancaria {
     private String numeroCuenta;
